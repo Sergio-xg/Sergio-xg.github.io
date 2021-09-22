@@ -9,69 +9,46 @@ markdown: kramdown
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: https://automateddeveloper.blogspot.com/
  - title: GitHub
-   url: https://github.com/robhinds
+   url: https://sergio-xg.github.io/
  - title: StackOverflow
-   url: https://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
+   url: https://stackoverflow.com/users/16236416/sergio-gonzalez
  - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
- - title: Food
-   url: https://www.robbishfood.com/
+   url: https://linkedin.com/in/sergio-gonzalez-9b49bb214
+
 
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Technical Architecture
- - Machine learning
+ - Calibration Standard
+ - Testing Protocols
+ - Documentation Skills
+ - Staff Monitoring
+ - Processing Documents
+ - Verifying information  
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
- - title: CTO
+ - title: Quality Technician
    start: 2017
    end: Ongoing
-   employer: Basement Crowd
-   description: Legaltech startup producing a range of innovative legal products. Products include <a href="https://www.juriosity.com" taget="_blank">Juriosity</a>, <a href="https://www.fromcounsel.com" taget="_blank">FromCounsel</a>, <a href="https://www.sparqa.com" taget="_blank">Sparqa</a>.
- - title: Senior Engineer
-   start: 2016
+   employer: Dynamet
+   description: Performed visual and dimensional inspections on manufactured parts (Titanium). Provided quality support to ensure that product met quality standards and customer requirements. Monitored Daily Performance production team to identify and address issues affecting quality product output. Compared samples to standards and specifications by performing detailed measurements and tests.
+ - title: Sales Support
+   start: 2014
    end: 2017
-   employer: Emerald Street Ventures
-   description: Emerald Street Ventures was established as an incubator vehicle for the development of a number of software and legal-tech projects, and a rapidly growing, London-based start-up using innovative technologies to revolutionise and change the software and legal-tech landscape. Working with a range of cutting edge technologies and techniques including Scala, Cassandra, CoreOS, a variety of Machine Learning techniques.
- - title: Senior Engineer
-   start: 2012
-   end: 2016
-   employer: Covestor
-   description: Covestor is an investment marketplace startup that was successfully acquired by Interactive Brokers in 2015. <br/> Working as a senior engineer, I worked closely with the CTO and across the full-stack, I was involved in all aspects of the technology including the website and back-end services.
- - title: Associate Manager
-   start: 2005
-   end: 2012
-   employer: Accenture
-   description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in London and Europe.
-
+   employer: Advanced Protection Technologies (APT)
+   description: Customer Service (Inbound & Outbound calls). Communicated with General Contractors and General Managers for project details. Input project details into the company operating system. Reviewed electrical specifications and electrical engineering plans.
+   
 #Education is required
 education:
- - level: Bachelor of Science (B.Sc.)
-   date: 2003
-   subject: Artificial Intelligence and Computer Science
-   school: University of Birmingham
+ - school: Clearwater High School, Clearwater, FL
+   date: August 2008 - July 2012
+ - school: St. Petersburg College, Saint Petersburg, Fl
+   date: July 2012 - July 2014
+
 
 #This section is optional (as is the image link below)
 coursera:
@@ -98,18 +75,6 @@ speakerdeck:
       speakerdeckId: ec84f2f56e9743afb0675b1eeeb6b6ce
       conference: W-JAX Conference, Munich 2017 (London 2017)
 
-#List of interesting Github repo/projects to include - optional
-github:
- - robhinds/robhinds.github.io
- - robhinds/ScaLambda
- - robhinds/opinionated-akka-http
- - robhinds/food2vec
- - robhinds/microservices
- - robhinds/spring-social-geeklist
- - robhinds/spring-social-stackoverflow
- - robhinds/genotype
- - robhinds/footweets
- - robhinds/ElasticSearchGradle
 
 #Stackoverflow flair is optional
 stackoverflow:
@@ -117,9 +82,11 @@ stackoverflow:
    flairimageurl: https://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  I am an Sergio with 15 years experience working in technology. I have primarily worked on the JVM, but have worked across a broad range of technologies thereon: Java, Groovy, Android, Coldfusion and most recently Scala. As well as spending a reasonable amount of time building applications for the web, which has given me an exposure to a range of javascript technologies over the years, through jQuery, extjs, knockout, backbone and most recently to React. <br/><br/>
-  I enjoy building interesting products, with a good Product Management focus and a good emphasis on good engineering principles and clean code (having worked across differing languages on the JVM, I recognise that good code is contextual).<br/><br/>
-  I have worked in large scale consultancy roles across Europe as well as a mix of startup experience (including one that was acquired) and I am currently the Chief Technology Officer at a legal-tech startup called <a href="https://www.basementcrowd.com" target="_blank">Basement Crowd</a> where we are building innovative products to serve the legal industry.
+  Detail-oriented Quality Control Technician offering 4.5 years monitoring
+  production to consistently produce safe and appealing products. Excellent
+  knowledge of quality standards and good manufacturing practices. Work
+  exceptionally well in a deadline driven environment through
+  prioritization and self-management.
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
